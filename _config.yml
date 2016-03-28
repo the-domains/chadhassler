@@ -1,0 +1,28 @@
+name: Chad Hassler
+favicon: null
+layout_spectrum: 0.009447876363992691
+typography_spectrum: 0.417889409000054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3284712852910161
+  lightness: 0.26126995077356696
+  saturation: 0.6259529637172818
+  rhythmicContrast: 0.8790617610793561
+purpose: []
